@@ -1,0 +1,3 @@
+Ce fichier est un fichier de test pour évaluer le fonctionnement du protocole de transfert de fichiers.
+Il contient du texte et des caractères spéciaux.
+Veuillez vérifier que le fichier est transféré correctement sans aucune altération.
